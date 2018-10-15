@@ -1,0 +1,11 @@
+package bytebank;
+
+import java.awt.Container;
+
+public class CriaConta {
+	public static void main(String[] args) {
+		new Conta();
+		
+	}
+
+}
