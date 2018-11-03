@@ -15,5 +15,8 @@ public static void main(String[] args) {
 	
 	conta.getTitular().setProfissao("programador");
 	System.out.println(conta.getTitular());
+	
+	conta.setAgencia(570);
+	System.out.println(conta.getAgencia());
 }
 }

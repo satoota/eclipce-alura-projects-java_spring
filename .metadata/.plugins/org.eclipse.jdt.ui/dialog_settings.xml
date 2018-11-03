@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="JavaSE-9" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
+	<item value="2" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
@@ -26,6 +28,9 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
@@ -33,7 +38,7 @@
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<item value="889" key="DIALOG_HEIGHT"/>
 		<item value="630" key="DIALOG_X_ORIGIN"/>
-		<item value="-467" key="DIALOG_Y_ORIGIN"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item value="false" key="SortOrdering"/>
